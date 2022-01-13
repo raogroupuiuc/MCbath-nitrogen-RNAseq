@@ -1,2 +1,3 @@
 # MCbath-nitrogen-RNAseq
-Analysis scripts accompanying the manuscript 
+Project: Nitrogen metabolism in _M. Capsulatus_ Bath 
+Scripts for RNA sequencing data analysis
